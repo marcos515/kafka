@@ -1,0 +1,24 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kafka.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcos515/kafka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcos515/kafka/issues"
+  },
+  "homepage": "https://github.com/Marcos515/kafka#readme",
+  "dependencies": {
+    "kafka-node": "^5.0.0",
+    "kafkajs": "^1.15.0"
+  }
+}
